@@ -1,0 +1,34 @@
+body{
+  background-color: #000;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
+h1{
+  font-size: 50px;
+  font-weight: normal;
+  color: #fff;
+}
+h2.callout{
+  color: #fff;
+  font-size: 42px;
+  font-weight: 300;
+}
+a{
+  color: #7fffd4;
+  font-size: 16px;
+  margin: 10px;
+  display: block;/*inline element needed margin to push video down*/
+}
+img{
+  display: block;
+  margin: 0 auto ;
+  padding: 10px;
+}
+p.gray{
+  font-size: 21px;
+  color: gray;
+}
+div.footer{
+  color: gray;
+  text-align: right;
+}
